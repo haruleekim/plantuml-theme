@@ -26,7 +26,7 @@ skinparam {
     ' Global Options
     DPI 200
     Shadowing false
-    DefaultFontName New York
+    DefaultFontName New York Medium
     DefaultMonospacedFontName SF Mono
     DefaultFontColor STYLE_FGC
     ' Styles - Borders
@@ -128,7 +128,7 @@ skinparam {
     ' This will override the options listed above.
     roundcorner 8
     'Monochrome true
-    NoteFontName New York
+    NoteFontName New York Medium
     NoteFontStyle Italic
     'NoteBackgroundColor STYLE_BGC
 }
